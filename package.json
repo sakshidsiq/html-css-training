@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "parcel": "^2.13.3"
+  },
+  "name": "moshify",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshidsiq/html-css-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sakshidsiq/html-css-training/issues"
+  },
+  "homepage": "https://github.com/sakshidsiq/html-css-training#readme",
+  "description": ""
+}
